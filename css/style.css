@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+}
+#login-form {
+	margin:1% auto;
+	max-width:500px;
+}
+/* home page */
+#wrapper{
+	padding-top:50px;
+}
+
+
+/*.nav.navbar-nav.navbar-right li a {
+    color: white;
+}
+*/
+
+.nav.navbar-nav li a {
+	font-size: 18px;
+    color: white;
+}
+
+.nav.navbar-nav li a :hover {
+    background-color: #A4C639;
+}
+
+
+	body {
+	background-color:black; 
+	color: white;
+	  }
+
+
+table,th, td {
+
+	border:1px solid pink;
+}
+
+
+   
+
